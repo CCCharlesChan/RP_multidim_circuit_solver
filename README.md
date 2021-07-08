@@ -7,8 +7,8 @@ This code demonstrates the circuit solver, which is fully described in paper *El
 
 ## How to Run
 MATLAB R2017a or later is recommended.
-Run script *Circuit_Dynamics_solve.m* in the directory to solve the circuit dynamics, using the sample device parameters and stimulus in *Model*.
-Run script *Synthesize_Efield.m* in the directory to synthesize the waveform measured by the micropipette, by linear combination of the sample elementary fields in *Model*.
+Run script *Circuit_Dynamics_solve.m* in the directory to solve the circuit dynamics, using the sample device parameters and stimulus in */Model*.
+Run script *Synthesize_Efield.m* in the directory to synthesize the waveform measured by the micropipette, by linear combination of the sample elementary fields in */Model*.
 
 Successful execution of the scripts should produce the red curve in Figure 4D of *Electronic “photoreceptors” enable prosthetic vision with acuity matching the natural resolution in rats*.
 
