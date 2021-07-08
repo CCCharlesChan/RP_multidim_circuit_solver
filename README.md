@@ -3,7 +3,7 @@
 ## Background
 The [photovoltaic retinal prosthesis](https://en.wikipedia.org/wiki/Photovoltaic_retinal_prosthesis) stimulates the retinal neurons with an implantable electrode array powered by photodiodes. Because of the spread of electric field in the retina, the electric potentials are spatial coupled among active electrodes of different pixels, which should be considered as a multi-dimensional linear system. We propose using the impedance matrix to quantify the inter-pixel coupling, and, together with the non-linear model of photodiode, to solve for the multi-dimensional circuit dynamics.
 
-This code demonstrates the circuit solver, which is fully described in paper *Electronic “photoreceptors” enable prosthetic vision with acuity matching the natural resolution in rats*. The code is in MATLAB, and uses sample data from [*Vertical-junction photodiodes for smaller pixels in retinal prostheses*](https://doi.org/10.1088/1741-2552/abe6b8) and our public COMSOL model.
+This code demonstrates the circuit solver, which is fully described in paper *Electronic “photoreceptors” enable prosthetic vision with acuity matching the natural resolution in rats*. The code is in MATLAB, and uses sample data from [*Vertical-junction photodiodes for smaller pixels in retinal prostheses*](https://doi.org/10.1088/1741-2552/abe6b8) and our public [COMSOL model](10.5281/zenodo.5081278).
 
 ## How to Run
 MATLAB R2017a or later is recommended.
